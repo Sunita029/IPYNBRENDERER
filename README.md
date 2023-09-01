@@ -1,1 +1,1 @@
-# pull origin m IPYNB rederer python package
+# IPYNB rederer python package
